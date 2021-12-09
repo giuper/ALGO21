@@ -36,20 +36,22 @@ class Sudoku(BackTrack):
         #newM=M.copy() nemmeno
         #in generale usa deepcopy
         #qui non c'e' bisogno perche' abbiamo solo due livelli
-
         newM=[M[i].copy() for i in range(9)]
         if col==8:
             row+=1
             col=0
         else:
             col+=1
-            
+        newM[row][col]=m
         newstato=[newM,row,col]
         return newstato
 
     def isAdm(self,stato,m):
         M,row,col=stato
 
+        if M[row][col]==m:
+            return True
+        
         #controlla riga row
         for c in range(9):
             if M[row][c]==m:
@@ -64,7 +66,7 @@ class Sudoku(BackTrack):
         ##coordinate della cella in alto a sinistra
         ##del riquadro cui appartiene (row,col)
         cornerR=(row//3)*3
-        cornerC=(col%3)*3
+        cornerC=(col//3)*3
         for r in range(cornerR,cornerR+3):
             for c in range(cornerC,cornerC+3):
                 if M[r][c]==m:
