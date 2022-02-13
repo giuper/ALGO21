@@ -24,6 +24,6 @@ Prof. [Giuseppe Persiano](https://giuper.github.io)
 
 ## Calendario prove orali dell'appello dell'11 Febbraio ##
 
-0. Luned&igrave; 14 Febbraio ore 9: Capaldo, D'Aniello, D'Antuono A.
+0. Luned&igrave; 14 Febbraio ore 9: Capaldo, D'Aniello, D'Antuono A., Serino
 1. Luned&igrave; 14 Febbraio ore 15: D'Antuono F., De Maio, De Palma, Lamberti
-2. Marted&igrave; 15 ore 10: Piscitelli, Serino, Strianese
+2. Marted&igrave; 15 ore 9:30: Piscitelli, Strianese
