@@ -22,8 +22,5 @@ Prof. [Giuseppe Persiano](https://giuper.github.io)
 5. [Backtrack](./07-Backtrack)
 
 
-## Calendario prove orali dell'appello dell'11 Febbraio ##
-
-0. Luned&igrave; 14 Febbraio ore 9: Capaldo, D'Aniello, D'Antuono A., Serino
-1. Luned&igrave; 14 Febbraio ore 15: D'Antuono F., De Maio, De Palma, Lamberti
-2. Marted&igrave; 15 ore 9:30: Piscitelli, Strianese
+## Esami ##
+1. [Appello dell'11 Febbraio, 2022](./Esami/220211)
