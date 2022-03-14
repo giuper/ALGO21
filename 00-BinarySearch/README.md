@@ -82,7 +82,8 @@ The python implementations for the algorithms for Select are found in [this](./S
     of around 1000 elements (for exceeding maximum recursion depth).
     The randomized algorithm works up to lists of 200 Million elements
     (and then stops for lack of space).
-    See [Battle of Recursive](BattleRecSelective.py).
+
+    See [Battle of Recursive](./BattleRecSelective.py).
 
         
 2. [Deterministic Iterative Select](./SelectImpl/DetIteSelect.py) vs 
@@ -90,7 +91,8 @@ The python implementations for the algorithms for Select are found in [this](./S
 
     We run the deterministic and randomized select algorithms
     implemented using iteration on the worst case (ordered list).
-    See [Battle of Iterative](BattleIteSelective.py).
+
+    See [Battle of Iterative](./BattleIteSelective.py).
 
     The iterative algorithms use the [partition](./SelectImpl/Partition.py)
     function described in [these](Notes/partition.pdf) notes.
