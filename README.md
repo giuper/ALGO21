@@ -24,3 +24,4 @@ Prof. [Giuseppe Persiano](https://giuper.github.io)
 
 ## Esami ##
 1. [Appello dell'11 Febbraio, 2022](./Esami/220211)
+2. [Appello del 15 Luglio, 2022] (./Esami/220715)
