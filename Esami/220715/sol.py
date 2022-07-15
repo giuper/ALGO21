@@ -9,10 +9,10 @@ def readingFile(nomeFile,m,k):
             BLOOM.insert(line)
     return BLOOM
 
-def checkingFile(BLOOM,name):
+def checkingFile(BLOOM,nomeFile):
     false=0
     total=0
-    with open(name,'r') as f:
+    with open(nomeFile,'r') as f:
         for line in f:
             line=line.rstrip() #rimuovo il carattere di andata a capo
             total+=1
