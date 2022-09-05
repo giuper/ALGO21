@@ -18,8 +18,8 @@ Prof. [Giuseppe Persiano](https://giuper.github.io)
 3. [Pattern Matching](./03-PatternMatching/README.md)
 4. [Hash](./04-Hash/README.md)
 5. [Bloom Filter](./05-Bloom/README.md)
-4. [Streaming](./06-Streaming/README.md)
-5. [Backtrack](./07-Backtrack)
+6. [Streaming](./06-Streaming/README.md)
+7. [Backtrack](./07-Backtrack)
 
 
 ## Esami ##
