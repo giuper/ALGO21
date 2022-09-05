@@ -1,6 +1,6 @@
 from bloom import bloomF
 
-#read words from FileW and returns a Bloom Filter with given parameters
+#reads all words from FileW and returns a Bloom Filter with given parameters
 def readingFile(FileW,m,k):
     BLOOM=bloomF(m,k)
     with open(FileW,'r') as f:
@@ -9,7 +9,7 @@ def readingFile(FileW,m,k):
             BLOOM.insert(line)
     return BLOOM
 
-#computes percentage of false positive from the words in FileW
+#computes percentage of false positive of BLOOM when words in FileW are looked up
 def checkingFile(BLOOM,FileW):
     falsePos=0
     total=0
@@ -29,7 +29,7 @@ def check(POS,NEG,m,k):
 
 
 file1="englishWords.txt"
-numberOfWordsFile1=90000
+numberOfWordsFile1=90_000
 file2="paroleItaliane.txt"
 tolerance=.04
 
