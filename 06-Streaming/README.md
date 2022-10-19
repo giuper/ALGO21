@@ -29,6 +29,6 @@ I riferimenti bibliografici sono relativi al testo
 
 1. Implementare l'algoritmo per i *k* elementi frequenti che generalizza l'algoritmo per l'elemento di maggioranza.
 
-2. Progettare un algoritmo che selezione a casa un elemento da uno stream.
+2. Progettare un algoritmo che selezione a caso un elemento da uno stream.
 
 3. Progettare un algoritmo che riceve uno stream di interi e selezione un elemento con probabilit&agrave; proporzionale al quadrato dell'intero.
