@@ -6,6 +6,7 @@ Prof. [Giuseppe Persiano](https://giuper.github.io)
 
 ### Backtrack ###
 
+0. [Slides](slides.pdf)
 1. [Risolviamo il problema delle N regine](queen.py)
 2. [Classe backtrack](back.py)
 3. [Il backtrack risolve il problema delle N regine](backQueen.py)

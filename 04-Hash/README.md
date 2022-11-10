@@ -8,7 +8,7 @@ Prof. [Giuseppe Persiano](https://giuper.github.io)
 ## Hash Tables ##
 
 0. Hash tables, Capitoli 2.1-2.5
-1. Consistent hashing, Capitolo 2.6
+1. Consistent hashing, Capitolo 2.8
 
 
 I riferimenti bibliografici sono relativi al testo
